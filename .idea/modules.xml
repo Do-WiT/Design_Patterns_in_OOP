@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DependencyInversion/DependencyInversion.iml" filepath="$PROJECT_DIR$/DependencyInversion/DependencyInversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesignPatternsInOOP.iml" filepath="$PROJECT_DIR$/.idea/DesignPatternsInOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceSegregation/InterfaceSegregation.iml" filepath="$PROJECT_DIR$/InterfaceSegregation/InterfaceSegregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LiskovSubstitution/LiskovSubstitution.iml" filepath="$PROJECT_DIR$/LiskovSubstitution/LiskovSubstitution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenClosed/OpenClosed.iml" filepath="$PROJECT_DIR$/OpenClosed/OpenClosed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSingleResponsibility/SSingleResponsibility.iml" filepath="$PROJECT_DIR$/SSingleResponsibility/SSingleResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+    </modules>
+  </component>
+</project>
