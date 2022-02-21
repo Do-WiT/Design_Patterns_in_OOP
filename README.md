@@ -17,3 +17,12 @@
 #4.Abstract Factory design
 ![](images/abstract_factory.png)
 
+
+#
+#5.Bridge design
+![](images/bridge.png)
+
+#
+#6.Command design
+![](images/command.png)
+
