@@ -26,3 +26,17 @@
 #6.Command design
 ![](images/command.png)
 
+#
+#7.Memento design
+![](images/memento.png)
+
+#
+#8.Prototype design
+![](images/prototype.png)
+
+#
+#9.Singleton design
+![](images/singleton.png)
+
+
+
