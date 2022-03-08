@@ -38,5 +38,15 @@
 #9.Singleton design
 ![](images/singleton.png)
 
+#
+#10.Builder design
+![](images/builder.png)
 
+#
+#11.Iterator design
+![](images/iterator.png)
+
+#
+#12.Chain of Responsibilities design
+![](images/chain_of_responsibilities.png)
 
