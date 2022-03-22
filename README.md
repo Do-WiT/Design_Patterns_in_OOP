@@ -50,3 +50,11 @@
 #12.Chain of Responsibilities design
 ![](images/chain_of_responsibilities.png)
 
+#
+#13.Interpreter design
+![](images/interpreter.png)
+
+#
+#14.Chain of Responsibilities design
+![](images/visitor.png)
+
